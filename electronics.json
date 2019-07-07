@@ -1,0 +1,152 @@
+[
+  {
+    "ProductName": "Alienware Aurora",
+    "GraphicName": "Aurora",
+    "CostPrice": "1999.99",
+    "MSRP": "2849.99",
+    "QtyOnHand": "3",
+    "QtyOnBackOrder": "5",
+    "Description": "The Alienware Aurora is a great home desktop with an 8th Gen Intel® Core™ i7 8700, Windows 10 Home 64bit English, NVIDIA® GeForce® GTX 1660 Ti 6GB GDDR6, 16GB Dual Channel DDR4 at 2666MHz; up to 64GB, 512GB M.2 PCIe Solid State Drive.",
+    "Name": "Alienware"
+  },
+  {
+    "ProductName": "Alienware Area-51",
+    "GraphicName": "Area-51",
+    "CostPrice": "2999.99",
+    "MSRP": "3199.99",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "4",
+    "Description": "Alienware's Area-51 is a well equipped, high end gaming laptop that comes with Intel® Core™ i7 9800X, Windows 10 Home 64bit English, NVIDIA® GeForce RTX™ 2060 6GB GDDR6 (OC Ready), 8GB Channel DDR4 at 2666MHz; up to 64GB, 128GB M.2 SATA SSD (Boot) + 1TB 7200RPM SATA HDD (Storage). ",
+    "Name": "Alienware"
+  },
+  {
+    "ProductName": "Area-51 Threadripper",
+    "GraphicName": "Threadripper",
+    "CostPrice": "5399.99",
+    "MSRP": "6249.99 ",
+    "QtyOnHand": "2",
+    "QtyOnBackOrder": "2",
+    "Description": "Alienware's Area-51 Threadripper is the top of the line home desktop gaming computer. It comes fully loaded with AMD Ryzen™ Threadripper™ 2950X, Windows 10 Home 64bit English, NVIDIA® GeForce RTX™ 2080 8GB GDDR6 (OC Ready), 32GB DDR4 at 2666MHz Dual Channel, 512GB M.2 PCIe NVMe SSD (Boot) + 2TB 7200RPM SATA 6Gb/s (Storage). ",
+    "Name": "Alienware"
+  },
+  {
+    "ProductName": "Alienware Area-51M",
+    "GraphicName": "Area-51M",
+    "CostPrice": "5099.99",
+    "MSRP": "5849.99",
+    "QtyOnHand": "3",
+    "QtyOnBackOrder": "5",
+    "Description": "Alienware's Area-51M gaming laptop is like no other off the shelf gaming laptop on the market. Run any game in full UHD with ease. Comes fully equipped with 9th Generation Intel® Core™ i9-9900K, Windows 10 Home 64bit English, NVIDIA® GeForce RTX™ 2080 8GB GDDR6 (OC Ready), 32GB, 2x16GB, DDR4, 2400MHz, 1TB RAID0 (2x 512GB PCIe M.2 SSDs) ",
+    "Name": "Alienware"
+  },
+  {
+    "ProductName": "Monitor 34inch Curved",
+    "GraphicName": "Monitor Curved",
+    "CostPrice": "1349.99",
+    "MSRP": "1449.99",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "5",
+    "Description": "34-inch gaming monitor featuring a curved 1900R IPS display with NVIDIA® G-Sync™, wide viewing angles and incredible resolution. Lose yourself in every game.",
+    "Name": "Alienware"
+  },
+  {
+    "ProductName": "ThinkPad X1 Extreme",
+    "GraphicName": "ThinkPad X1 Extreme",
+    "CostPrice": "1934.10",
+    "MSRP": "2149.00",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "8",
+    "Description": "Built for extreme power, handles demanding computing tasks without a hitch. Multi-monitor support for a rich VR/MR and hardcore gaming experience. Ultralight powerhouse 15.6” display with optional 4K touchscreen with Dolby Vision®. Spec include 8th Gen H Series Intel® Core™ processors, NVIDIA® GeForce® GTX 1050 Ti Max-Q 4GB",
+    "Name": "Lenovo"
+  },
+  {
+    "ProductName": "Legion T530 Gaming",
+    "GraphicName": "Legion T530 Gaming",
+    "CostPrice": "1282.49",
+    "MSRP": "1499.99",
+    "QtyOnHand": "3",
+    "QtyOnBackOrder": "2",
+    "Description": "1 TB HDD with 256 GB SSD or 1 TB HDD with 16 GB Intel Optane Memory storage.Save more space than a traditional gaming PC while boasting 8th Gen Intel® core processors for ultra responsive multitasking and streaming. ",
+    "Name": "Lenovo"
+  },
+  {
+    "ProductName": "Legion C530 Mini PC",
+    "GraphicName": "C530 Mini",
+    "CostPrice": "1039.49",
+    "MSRP": "1259.99",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "5",
+    "Description": "Dominate all your games with premium 8th Gen Intel® processors and discrete full size graphics cards, plus a dual-channel thermal system.",
+    "Name": "Lenovo"
+  },
+  {
+    "ProductName": "Legion Y540 15inch Laptop",
+    "GraphicName": "Y540 Laptop",
+    "CostPrice": "1369.99",
+    "MSRP": "1489.99",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "4",
+    "Description": "Power through your games with premium 9th gen Intel® processing and NVIDIA® RTX graphics. From day into night this laptop packs more than 2 million pixels in Full HD resolution.",
+    "Name": "Lenovo"
+  },
+  {
+    "ProductName": "Legion Stereo Headset",
+    "GraphicName": "Stereo Headset",
+    "CostPrice": "31.04",
+    "MSRP": "67.49",
+    "QtyOnHand": "4",
+    "QtyOnBackOrder": "10",
+    "Description": "Hear your opponents sneaking in the shadows with this best-in-class gaming headset featuring 50 mm high-performance drivers with neodymium magnets.The Lenovo Legion Stereo Headset delivers crisp highs and deafening lows, and lets you play harder for longer thanks to its lightweight carbon fiber texture and retractable noise-canceling microphone.",
+    "Name": "Lenovo"
+  },
+  {
+    "ProductName": "Inspiron Desktop",
+    "GraphicName": "Inspiron Desktop",
+    "CostPrice": "799.99",
+    "MSRP": "1018.99",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "2",
+    "Description": "Extensive storage meets upgraded speed and power in an innovative design that saves space without sacrificing performance.",
+    "Name": "Dell"
+  },
+  {
+    "ProductName": "Inspiron Gaming Desktop",
+    "GraphicName": "Inspiron Gaming Desktop",
+    "CostPrice": "1299.99",
+    "MSRP": "1449.99",
+    "QtyOnHand": "4",
+    "QtyOnBackOrder": "0",
+    "Description": "Featuring 2nd Gen AMD Ryzen™ Processors. Includes 1TB* hard drive and 256GB* solid state drive for a faster boot up. This system will run almost any game at 60 FPS and offer a premium VR experience.",
+    "Name": "Dell"
+  },
+  {
+    "ProductName": "Inspiron 24inch 5000 All-in-One",
+    "GraphicName": "Inspiron 24inch 5000 All-in-One",
+    "CostPrice": "1299.99",
+    "MSRP": "1449.99",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "7",
+    "Description": "With 8th Gen Intel® Core™ processor. This 23.8” FHD wide-viewing display with IPS technology allows high-quality video streaming and viewing from every angle.",
+    "Name": "Dell"
+  },
+  {
+    "ProductName": "New XPS 15",
+    "GraphicName": "New XPS 15",
+    "CostPrice": "2349.99",
+    "MSRP": "2599.99",
+    "QtyOnHand": "3",
+    "QtyOnBackOrder": "5",
+    "Description": "The world’s smallest 15.6-inch performance laptop with a stunning OLED display option. Now featuring 9th Gen Intel® Core™ processors. Powerhouse performance with the latest processors and NVIDIA graphics paired with a stunning 4K Ultra HD display. ",
+    "Name": "Dell"
+  },
+  {
+    "ProductName": "Dell 27 USB-C Ultrathin Monitor",
+    "GraphicName": "27inch Monitor",
+    "CostPrice": "479.99",
+    "MSRP": "699.99",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "10",
+    "Description": "This stunning VESA HDR monitor is our brightest ultrathin featuring awe-inspiring visuals, CinemaColor and Dell’s InfinityEdge display.",
+    "Name": "Dell"
+  }
+]
