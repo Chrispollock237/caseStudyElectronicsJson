@@ -111,17 +111,17 @@
   },
   {
     "ProductName": "Inspiron Gaming Desktop",
-    "GraphicName": "Inspiron Gaming Desktop",
+    "GraphicName": "Inspiron Gaming",
     "CostPrice": "1299.99",
     "MSRP": "1449.99",
     "QtyOnHand": "4",
     "QtyOnBackOrder": "1",
-    "Description": "Featuring 2nd Gen AMD Ryzen Processors. Includes 1TB hard drive and 256GB solid state drive for a faster boot up. This system will run almost any game at 60 FPS and offer a premium VR experience.",
+    "Description": "Featuring 2nd Gen AMD Ryzen™ Processors. Includes 1TB hard drive and 256GB solid state drive for a faster boot up. This system will run almost any game at 60 FPS and offer a premium VR experience.",
     "Name": "Dell"
   },
   {
     "ProductName": "Inspiron 24inch 5000 All-in-One",
-    "GraphicName": "Inspiron 24inch 5000 All-in-One",
+    "GraphicName": "Inspiron 24inch",
     "CostPrice": "1299.99",
     "MSRP": "1449.99",
     "QtyOnHand": "5",
