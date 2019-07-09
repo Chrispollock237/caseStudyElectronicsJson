@@ -1,7 +1,7 @@
 [
   {
     "ProductName": "Alienware Aurora",
-    "GraphicName": "Aurora",
+    "GraphicName": "aurora.png",
     "CostPrice": "1999.99",
     "MSRP": "2849.99",
     "QtyOnHand": "3",
@@ -11,7 +11,7 @@
   },
   {
     "ProductName": "Alienware Area-51",
-    "GraphicName": "Area-51",
+    "GraphicName": "area51.png",
     "CostPrice": "2999.99",
     "MSRP": "3199.99",
     "QtyOnHand": "5",
@@ -21,7 +21,7 @@
   },
   {
     "ProductName": "Area-51 Threadripper",
-    "GraphicName": "Threadripper",
+    "GraphicName": "Threadripper.png",
     "CostPrice": "5399.99",
     "MSRP": "6249.99 ",
     "QtyOnHand": "2",
@@ -31,7 +31,7 @@
   },
   {
     "ProductName": "Alienware Area-51M",
-    "GraphicName": "Area-51M",
+    "GraphicName": "area51M.png",
     "CostPrice": "5099.99",
     "MSRP": "5849.99",
     "QtyOnHand": "3",
@@ -41,7 +41,7 @@
   },
   {
     "ProductName": "Monitor 34inch Curved",
-    "GraphicName": "Monitor Curved",
+    "GraphicName": "Monitor_Curved.png",
     "CostPrice": "1349.99",
     "MSRP": "1449.99",
     "QtyOnHand": "5",
@@ -51,7 +51,7 @@
   },
   {
     "ProductName": "ThinkPad X1 Extreme",
-    "GraphicName": "ThinkPad X1 Extreme",
+    "GraphicName": "x1_extreme.png",
     "CostPrice": "1934.10",
     "MSRP": "2149.00",
     "QtyOnHand": "5",
@@ -61,7 +61,7 @@
   },
   {
     "ProductName": "Legion T530 Gaming",
-    "GraphicName": "Legion T530 Gaming",
+    "GraphicName": "legion_t530.png",
     "CostPrice": "1282.49",
     "MSRP": "1499.99",
     "QtyOnHand": "3",
@@ -71,7 +71,7 @@
   },
   {
     "ProductName": "Legion C530 Mini PC",
-    "GraphicName": "C530 Mini",
+    "GraphicName": "legion_c530.png",
     "CostPrice": "1039.49",
     "MSRP": "1259.99",
     "QtyOnHand": "5",
@@ -81,7 +81,7 @@
   },
   {
     "ProductName": "Legion Y540 15inch Laptop",
-    "GraphicName": "Y540 Laptop",
+    "GraphicName": "legion_y540.png",
     "CostPrice": "1369.99",
     "MSRP": "1489.99",
     "QtyOnHand": "5",
@@ -91,7 +91,7 @@
   },
   {
     "ProductName": "Legion Stereo Headset",
-    "GraphicName": "Stereo Headset",
+    "GraphicName": "Stereo_Headset.png",
     "CostPrice": "31.04",
     "MSRP": "67.49",
     "QtyOnHand": "4",
@@ -101,7 +101,7 @@
   },
   {
     "ProductName": "Inspiron Desktop",
-    "GraphicName": "Inspiron Desktop",
+    "GraphicName": "inspiron.png",
     "CostPrice": "799.99",
     "MSRP": "1018.99",
     "QtyOnHand": "5",
@@ -111,7 +111,7 @@
   },
   {
     "ProductName": "Inspiron Gaming Desktop",
-    "GraphicName": "Inspiron Gaming",
+    "GraphicName": "gaming_inspiron.png",
     "CostPrice": "1299.99",
     "MSRP": "1449.99",
     "QtyOnHand": "4",
@@ -121,7 +121,7 @@
   },
   {
     "ProductName": "Inspiron 24inch 5000 All-in-One",
-    "GraphicName": "Inspiron 24inch",
+    "GraphicName": "all_in_one.png",
     "CostPrice": "1299.99",
     "MSRP": "1449.99",
     "QtyOnHand": "5",
@@ -131,7 +131,7 @@
   },
   {
     "ProductName": "New XPS 15",
-    "GraphicName": "New XPS 15",
+    "GraphicName": "xps_15.png",
     "CostPrice": "2349.99",
     "MSRP": "2599.99",
     "QtyOnHand": "3",
@@ -141,7 +141,7 @@
   },
   {
     "ProductName": "Dell 27 USB-C Ultrathin Monitor",
-    "GraphicName": "27inch Monitor",
+    "GraphicName": "dell_monitor.png",
     "CostPrice": "479.99",
     "MSRP": "699.99",
     "QtyOnHand": "5",
